@@ -15,3 +15,6 @@ The United States Geological Survey (USGS) aims to provide scientific data about
    - Size data markers according to earthquake magnitude and color them based on depth (the third coordinate for each earthquake).
    - Include popups with additional earthquake information when markers are clicked.
    - Create a legend to provide context for the map data.
+
+# Website
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
